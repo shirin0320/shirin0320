@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#我的第一个Github仓库
+这是我在Github上创建的第一个项目，用来学习Git和Github
+##功能
+-存放学习笔记
+-学习代码提交
